@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+    padding: 0;
+    margin-top: 0;
+    margin-left: -.5px ;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    box-shadow: #5c5c5c;
+}
+
+.lastcontent h1{
+    font-size: 36px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: #000;
+}
